@@ -121,13 +121,13 @@ uvicorn ZetaCore:app --reload
 This will start the FastAPI server on http://localhost:8000 by default.
 
 ###  React Frontend
+```
+cd frontned
 
-cd smart-scheduling-agent
-
-npm install ( try running it with force or legacy peers command if it fails)
+npm install  # try running it with force or legacy peers command if it fails)
 
 npm run dev 
-
+```
 
 
 ### Voice Interface
