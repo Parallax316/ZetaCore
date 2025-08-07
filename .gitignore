@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+venv/
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google API tokens and credentials
+credentials.json
+service_account.json
+token.pickle
+
+# Node/React (frontend)
+node_modules/
+build/
+dist/
+.env.local
+
+# Backup and logs
+backup/
+*.log
+
+# Misc
+*.swp
+*.bak
+*.tmp
